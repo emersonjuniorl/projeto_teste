@@ -7,6 +7,7 @@ nome = "Emerson"
 
 #Print
 print(idade)
+print(nome)
 
 #Operações
 nova_idade = idade + 1
